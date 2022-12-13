@@ -60,7 +60,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>msvcsellos</finalName>
+		<finalName>msvcsellos-r1-bdv</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
